@@ -1,7 +1,7 @@
 # tenbyten
 Print a matrix of specified size, 10 by 10 by default
 
-**####To run:**
+**To run:**
 1. Download Python if you haven't already. You can download it from [here](https://www.python.org/downloads/)
 2. Download the matrix.py file from this repository.
 3. Open your terminal by typing "cmd" in the windows start menu and hitting enter.
