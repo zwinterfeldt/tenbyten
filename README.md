@@ -9,4 +9,5 @@ Print a matrix of specified size, 10 by 10 by default
 5. Once you can see you've navigated to the folder where matrix.py is, run the command ```python matrix.py```
 
 *Example of steps below*
+
 ![image](https://github.com/user-attachments/assets/1d364e56-22d3-4aee-adbe-09009faf75d8)
